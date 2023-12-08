@@ -34,7 +34,7 @@ footer {
     color: black;
     text-align: center;
     padding: 1em;
-    position: absolute;
+    position: static;
     bottom: 0;
     width: 100%; 
 
@@ -128,3 +128,5 @@ button:hover{
  /* align-items: start;
     height: auto; */
 /* } */ 
+
+
